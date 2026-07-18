@@ -76,7 +76,7 @@ Open `index.html` in your preferred browser.
 
 No additional setup or dependencies are required.
 
----
+--- 
 ```markdown
 ![Portfolio Preview](images/portfolio-preview.png)
 ```
