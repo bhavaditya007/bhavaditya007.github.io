@@ -56,9 +56,6 @@ Whether you're a recruiter, developer, or someone interested in my work, feel fr
 ├── style.css
 └── README.md
 ```
-
-> Folder names may differ slightly depending on the project structure.
-
 ---
 
 ## 🚀 Running Locally
